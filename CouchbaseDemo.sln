@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CouchbaseDemo", "CouchbaseDemo\CouchbaseDemo.csproj", "{9ED4701E-8450-4E4E-A970-CFAB16585DBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ED4701E-8450-4E4E-A970-CFAB16585DBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ED4701E-8450-4E4E-A970-CFAB16585DBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ED4701E-8450-4E4E-A970-CFAB16585DBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ED4701E-8450-4E4E-A970-CFAB16585DBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {753E9564-9A1C-42D5-9861-C7F04D4E90F7}
+	EndGlobalSection
+EndGlobal
